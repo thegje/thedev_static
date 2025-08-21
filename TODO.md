@@ -13,6 +13,6 @@ The aim is to develop a single file vanilla HTML and JS website, that's fast and
 ## Backlog
 - [x] 21/08/2025 - 11:28 - Commit initial commit to repo - commit: 515efb6d9c86ecce6114ec3bf7a9535fe9bcbdb1
 - [x] 21/08/2025 - 11:34 - Create a new branch called 'live', and we will use that for GitHub pages deployment - commit: 25a9121d3701548271d518c287f0eedb6a4759ad
-- [ ] Refactor the current index.html file to minimise characters without changing any functionality or aesthetics
+- [x] 21/08/2025 - 11:38 - Refactor the current index.html file to minimise characters without changing any functionality or aesthetics - commit: ee986b28833f3d1373c3b570a962921b83f1e8f6
 - [ ] Refactor the js.js file to minimise characters without changing any functionality or aesthetics
 - [ ] Refactor the s2.css file to minimise characters without changing any functionality or aesthetics
